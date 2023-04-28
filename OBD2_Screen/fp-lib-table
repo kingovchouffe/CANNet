@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Connectors")(type "KiCad")(uri "C:/Users/pierr/OneDrive/Documents/Github/CANNet/Motherboard/Connectors.pretty")(options "")(descr ""))
+  (lib (name "gc9a01")(type "KiCad")(uri "C:/Users/pierr/OneDrive/Documents/Github/CANNet/Motherboard/gc9a01.pretty")(options "")(descr ""))
+)
